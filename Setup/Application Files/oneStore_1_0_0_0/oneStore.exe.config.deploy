@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="applicationSettings" type="System.Configuration.ApplicationSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="oneStore.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" requirePermission="false" />
+        </sectionGroup>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="oneStore.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <connectionStrings>
+        <add name="oneStore.Properties.Settings.OneStoreConnectionString"
+            connectionString="Data Source=DESKTOP-BINFBEP;Initial Catalog=OneStore;Integrated Security=True"
+            providerName="System.Data.SqlClient" />
+    </connectionStrings>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.7.2" />
+    </startup>
+    <applicationSettings>
+        <oneStore.Properties.Settings>
+            <setting name="connectionString" serializeAs="String">
+                <value>Data Source=DESKTOP-BINFBEP;Initial Catalog=OneStore;Integrated Security=True</value>
+            </setting>
+        </oneStore.Properties.Settings>
+    </applicationSettings>
+    <userSettings>
+        <oneStore.Properties.Settings>
+            <setting name="Theme" serializeAs="String">
+                <value>Red</value>
+            </setting>
+            <setting name="ArduinoCode" serializeAs="String">
+                <value>Unlock</value>
+            </setting>
+            <setting name="ArduinoState" serializeAs="String">
+                <value>Online</value>
+            </setting>
+        </oneStore.Properties.Settings>
+    </userSettings>
+</configuration>

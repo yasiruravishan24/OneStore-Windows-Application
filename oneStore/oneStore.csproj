@@ -1,0 +1,727 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{149A46BC-4E06-4205-81B4-FF78E876D130}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>oneStore</RootNamespace>
+    <AssemblyName>oneStore</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>D:\Setup\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <PublisherName>OneStore</PublisherName>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Resources\Main.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>2C004D32C64BAA5C85EB21B874DC6FA5F33CA6C6</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>oneStore_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge, Version=2.2.5.0, Culture=neutral, PublicKeyToken=c1db6ff4eaa06aeb, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.2.2.5\lib\AForge.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video, Version=2.2.5.0, Culture=neutral, PublicKeyToken=cbfb6e07d173c401, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Video.2.2.5\lib\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow, Version=2.2.5.0, Culture=neutral, PublicKeyToken=61ea4348d43881b7, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Video.DirectShow.2.2.5\lib\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="ArduinoUploader, Version=3.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ArduinoUploader.3.2.0\lib\net452\ArduinoUploader.dll</HintPath>
+    </Reference>
+    <Reference Include="CustomerRegister_Proj, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\CustomerRegister_Proj.dll</HintPath>
+    </Reference>
+    <Reference Include="EO.WebBrowser">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Microsoft Visual Studio\packages\eo.webbrowser.21.0.94\lib\EO.WebBrowser.dll</HintPath>
+    </Reference>
+    <Reference Include="GADYasiru, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\GADYasiru.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.1.4, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="IntelHexFormatReader, Version=2.2.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\IntelHexFormatReader.2.2.1\lib\net452\IntelHexFormatReader.dll</HintPath>
+    </Reference>
+    <Reference Include="JDragControl">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Microsoft Visual Studio\packages\Controls\JDragControl.dll</HintPath>
+    </Reference>
+    <Reference Include="JMetroTextBox">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Microsoft Visual Studio\packages\Controls\JMetroTextBox.dll</HintPath>
+    </Reference>
+    <Reference Include="ManageEmployee_Proj, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\ManageEmployee_Proj.dll</HintPath>
+    </Reference>
+    <Reference Include="ManageItems_Proj, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\ManageItems_Proj.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Microsoft Visual Studio\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1400.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1400.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1400.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Win32.Registry, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Win32.Registry.4.3.0\lib\net46\Microsoft.Win32.Registry.dll</HintPath>
+    </Reference>
+    <Reference Include="RJCP.SerialPortStream, Version=2.1.2.0, Culture=neutral, PublicKeyToken=5f5e7b70c6a74deb, processorArchitecture=MSIL">
+      <HintPath>..\packages\SerialPortStream.2.1.2\lib\net45\RJCP.SerialPortStream.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Collections.Specialized, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Collections.Specialized.4.3.0\lib\net46\System.Collections.Specialized.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Diagnostics.FileVersionInfo, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Diagnostics.FileVersionInfo.4.3.0\lib\net46\System.Diagnostics.FileVersionInfo.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Diagnostics.TraceSource, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Diagnostics.TraceSource.4.3.0\lib\net46\System.Diagnostics.TraceSource.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.IO, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.4.3.0\lib\net462\System.IO.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.IO.FileSystem, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.FileSystem.4.3.0\lib\net46\System.IO.FileSystem.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.IO.FileSystem.Primitives, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.FileSystem.Primitives.4.3.0\lib\net46\System.IO.FileSystem.Primitives.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.4.3.0\lib\net462\System.Runtime.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.Extensions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.Extensions.4.3.0\lib\net462\System.Runtime.Extensions.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.InteropServices, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.InteropServices.4.3.0\lib\net463\System.Runtime.InteropServices.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.InteropServices.RuntimeInformation, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.InteropServices.RuntimeInformation.4.3.0\lib\net45\System.Runtime.InteropServices.RuntimeInformation.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Threading.Overlapped, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Overlapped.4.3.0\lib\net46\System.Threading.Overlapped.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Threading.Thread, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Thread.4.3.0\lib\net46\System.Threading.Thread.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Threading.ThreadPool, Version=4.0.11.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.ThreadPool.4.3.0\lib\net46\System.Threading.ThreadPool.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="XanderUI, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\XanderUI.dll</HintPath>
+    </Reference>
+    <Reference Include="zxing, Version=0.16.6.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZXing.Net.0.16.6\lib\net47\zxing.dll</HintPath>
+    </Reference>
+    <Reference Include="zxing.presentation, Version=0.16.6.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZXing.Net.0.16.6\lib\net47\zxing.presentation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminHome.Designer.cs">
+      <DependentUpon>AdminHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adminProfile_settings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminProfile_settings.Designer.cs">
+      <DependentUpon>adminProfile_settings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="arduinoUploadClass.cs" />
+    <Compile Include="databaseclass.cs" />
+    <Compile Include="DataBaseReport.cs">
+      <DependentUpon>DataBaseReport.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataBaseReport.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataBaseReport.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginReport.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LoginReport.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="manage_employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="manage_employee.Designer.cs">
+      <DependentUpon>manage_employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="manage_sell_items.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="manage_sell_items.Designer.cs">
+      <DependentUpon>manage_sell_items.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Reg_loyalty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reg_loyalty.Designer.cs">
+      <DependentUpon>Reg_loyalty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports.Designer.cs">
+      <DependentUpon>Reports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportseller.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportseller.Designer.cs">
+      <DependentUpon>Reportseller.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SellerHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SellerHome.Designer.cs">
+      <DependentUpon>SellerHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sellerLogin.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>sellerLogin.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SellerProfile_settings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SellerProfile_settings.Designer.cs">
+      <DependentUpon>SellerProfile_settings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sellerSell.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>sellerSell.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="sellItems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sellItems.Designer.cs">
+      <DependentUpon>sellItems.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SellsReport.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SellsReport.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Splash.Designer.cs">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="StoreLigth_appColor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StoreLigth_appColor.Designer.cs">
+      <DependentUpon>StoreLigth_appColor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="store_social_media.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="store_social_media.Designer.cs">
+      <DependentUpon>store_social_media.cs</DependentUpon>
+    </Compile>
+    <Compile Include="viewItems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="viewItems.Designer.cs">
+      <DependentUpon>viewItems.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AdminHome.resx">
+      <DependentUpon>AdminHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminProfile_settings.resx">
+      <DependentUpon>adminProfile_settings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Chamith.rdlc" />
+    <EmbeddedResource Include="Charana.rdlc" />
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="manage_employee.resx">
+      <DependentUpon>manage_employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="manage_sell_items.resx">
+      <DependentUpon>manage_sell_items.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Oshan.rdlc" />
+    <EmbeddedResource Include="Pasan.rdlc" />
+    <EmbeddedResource Include="Reg_loyalty.resx">
+      <DependentUpon>Reg_loyalty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports.resx">
+      <DependentUpon>Reports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportseller.resx">
+      <DependentUpon>Reportseller.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SellerHome.resx">
+      <DependentUpon>SellerHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SellerProfile_settings.resx">
+      <DependentUpon>SellerProfile_settings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sellItems.resx">
+      <DependentUpon>sellItems.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splash.resx">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StoreLigth_appColor.resx">
+      <DependentUpon>StoreLigth_appColor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="store_social_media.resx">
+      <DependentUpon>store_social_media.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="viewItems.resx">
+      <DependentUpon>viewItems.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yasiru.rdlc" />
+    <None Include="DataBaseReport.xsc">
+      <DependentUpon>DataBaseReport.xsd</DependentUpon>
+    </None>
+    <None Include="DataBaseReport.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataBaseReport.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataBaseReport.xss">
+      <DependentUpon>DataBaseReport.xsd</DependentUpon>
+    </None>
+    <None Include="LoginReport.xsc">
+      <DependentUpon>LoginReport.xsd</DependentUpon>
+    </None>
+    <None Include="LoginReport.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LoginReport.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="LoginReport.xss">
+      <DependentUpon>LoginReport.xsd</DependentUpon>
+    </None>
+    <None Include="oneStore_TemporaryKey.pfx" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="sellerLogin.xsc">
+      <DependentUpon>sellerLogin.xsd</DependentUpon>
+    </None>
+    <None Include="sellerLogin.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>sellerLogin.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="sellerLogin.xss">
+      <DependentUpon>sellerLogin.xsd</DependentUpon>
+    </None>
+    <None Include="sellerSell.xsc">
+      <DependentUpon>sellerSell.xsd</DependentUpon>
+    </None>
+    <None Include="sellerSell.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>sellerSell.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="sellerSell.xss">
+      <DependentUpon>sellerSell.xsd</DependentUpon>
+    </None>
+    <None Include="SellsReport.xsc">
+      <DependentUpon>SellsReport.xsd</DependentUpon>
+    </None>
+    <None Include="SellsReport.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SellsReport.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="SellsReport.xss">
+      <DependentUpon>SellsReport.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wrong.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\corret1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fingerprint1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize_btn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_minimize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adminHome1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ah1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adminhome11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shome.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-facebook-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maximize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back-button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\forward-button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reload-button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BlueIcon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cyan1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cyan2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cyan3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cyan4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cyan5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cyan6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CyanIcon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Green1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Green2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Green3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Green4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Green5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Green6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GreenIcon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Magenta1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Magenta2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Magenta3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Magenta4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Magenta5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MagentaIcon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Megenta6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Red1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Red2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Red3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Red4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Red5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Red6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RedIcon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Yellow1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Yellow2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Yellow3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Yellow4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Yellow5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Yellow6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\YellowIcon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Main.ico" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

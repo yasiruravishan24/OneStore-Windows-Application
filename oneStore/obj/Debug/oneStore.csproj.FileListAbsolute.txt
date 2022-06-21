@@ -1,0 +1,433 @@
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\oneStore.exe.config
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\oneStore.exe
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\oneStore.pdb
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\MetroFramework.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\obj\Debug\oneStore.AdminHome.resources
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\obj\Debug\oneStore.Login.resources
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\obj\Debug\oneStore.SellerHome.resources
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\obj\Debug\oneStore.Splash.resources
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\obj\Debug\oneStore.Properties.Resources.resources
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\obj\Debug\oneStore.csproj.GenerateResource.cache
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\obj\Debug\oneStore.csproj.CoreCompileInputs.cache
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\obj\Debug\oneStore.csproj.CopyComplete
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\obj\Debug\oneStore.exe
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\obj\Debug\oneStore.pdb
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\JDragControl.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\obj\Debug\oneStore.adminProfile_settings.resources
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\obj\Debug\oneStore.manage_employee.resources
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\obj\Debug\oneStore.manage_sell_items.resources
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\obj\Debug\oneStore.Reports.resources
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\obj\Debug\oneStore.StoreLigth_appColor.resources
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\obj\Debug\oneStore.store_social_media.resources
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\obj\Debug\oneStore.Reg_loyalty.resources
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\obj\Debug\oneStore.Reportseller.resources
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\obj\Debug\oneStore.SellerProfile_settings.resources
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\obj\Debug\oneStore.sellItems.resources
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\obj\Debug\oneStore.viewItems.resources
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\EO.WebBrowser.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\EO.Base.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\EO.WebEngine.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\EO.WebBrowser.xml
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\EO.Base.xml
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\EO.WebEngine.xml
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\JMetroTextBox.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\RJCP.SerialPortStream.pdb
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\RJCP.SerialPortStream.xml
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\ArduinoUploader.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\IntelHexFormatReader.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\RJCP.SerialPortStream.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\AForge.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\AForge.Video.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\zxing.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\zxing.presentation.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\AForge.xml
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\AForge.Video.xml
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\zxing.xml
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\zxing.presentation.xml
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\obj\Debug\oneStore.csprojAssemblyReference.cache
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\EnvDTE.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\stdole.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\Interop.WMPLib.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\obj\Debug\Interop.WMPLib.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\oneStore\oneStore\obj\Debug\oneStore.csproj.ResolveComReference.cache
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\oneStore.exe.config
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\oneStore.exe
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\oneStore.pdb
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\AForge.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\AForge.Video.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\ArduinoUploader.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\IntelHexFormatReader.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\RJCP.SerialPortStream.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\zxing.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\zxing.presentation.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\EnvDTE.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\stdole.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\AForge.xml
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\AForge.Video.xml
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\RJCP.SerialPortStream.pdb
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\RJCP.SerialPortStream.xml
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\zxing.xml
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\zxing.presentation.xml
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\Interop.WMPLib.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\obj\Debug\oneStore.csprojAssemblyReference.cache
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\obj\Debug\Interop.WMPLib.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\obj\Debug\oneStore.csproj.ResolveComReference.cache
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\obj\Debug\oneStore.AdminHome.resources
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\obj\Debug\oneStore.adminProfile_settings.resources
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\obj\Debug\oneStore.Login.resources
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\obj\Debug\oneStore.manage_employee.resources
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\obj\Debug\oneStore.manage_sell_items.resources
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\obj\Debug\oneStore.Reg_loyalty.resources
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\obj\Debug\oneStore.Reports.resources
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\obj\Debug\oneStore.Reportseller.resources
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\obj\Debug\oneStore.SellerHome.resources
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\obj\Debug\oneStore.SellerProfile_settings.resources
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\obj\Debug\oneStore.sellItems.resources
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\obj\Debug\oneStore.Splash.resources
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\obj\Debug\oneStore.Properties.Resources.resources
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\obj\Debug\oneStore.StoreLigth_appColor.resources
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\obj\Debug\oneStore.store_social_media.resources
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\obj\Debug\oneStore.viewItems.resources
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\obj\Debug\oneStore.csproj.GenerateResource.cache
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\obj\Debug\oneStore.csproj.CoreCompileInputs.cache
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\obj\Debug\oneStore.csproj.CopyComplete
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\obj\Debug\oneStore.exe
+C:\Users\Yasiru Ravishan\Desktop\CW2\Software\Pasan\oneStore\oneStore\obj\Debug\oneStore.pdb
+E:\oneStore\oneStore\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\oneStore\oneStore\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\oneStore\oneStore\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\oneStore\oneStore\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\oneStore\oneStore\bin\Debug\oneStore.exe.config
+E:\oneStore\oneStore\bin\Debug\oneStore.exe
+E:\oneStore\oneStore\bin\Debug\oneStore.pdb
+E:\oneStore\oneStore\bin\Debug\AForge.dll
+E:\oneStore\oneStore\bin\Debug\AForge.Video.DirectShow.dll
+E:\oneStore\oneStore\bin\Debug\AForge.Video.dll
+E:\oneStore\oneStore\bin\Debug\ArduinoUploader.dll
+E:\oneStore\oneStore\bin\Debug\IntelHexFormatReader.dll
+E:\oneStore\oneStore\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\oneStore\oneStore\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\oneStore\oneStore\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\oneStore\oneStore\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\oneStore\oneStore\bin\Debug\Microsoft.Win32.Registry.dll
+E:\oneStore\oneStore\bin\Debug\RJCP.SerialPortStream.dll
+E:\oneStore\oneStore\bin\Debug\zxing.dll
+E:\oneStore\oneStore\bin\Debug\zxing.presentation.dll
+E:\oneStore\oneStore\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\oneStore\oneStore\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\oneStore\oneStore\bin\Debug\EnvDTE.dll
+E:\oneStore\oneStore\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\oneStore\oneStore\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\oneStore\oneStore\bin\Debug\stdole.dll
+E:\oneStore\oneStore\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\oneStore\oneStore\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\oneStore\oneStore\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\oneStore\oneStore\bin\Debug\Microsoft.MSXML.dll
+E:\oneStore\oneStore\bin\Debug\AForge.xml
+E:\oneStore\oneStore\bin\Debug\AForge.Video.xml
+E:\oneStore\oneStore\bin\Debug\AForge.Video.DirectShow.xml
+E:\oneStore\oneStore\bin\Debug\RJCP.SerialPortStream.pdb
+E:\oneStore\oneStore\bin\Debug\RJCP.SerialPortStream.xml
+E:\oneStore\oneStore\bin\Debug\zxing.xml
+E:\oneStore\oneStore\bin\Debug\zxing.presentation.xml
+E:\oneStore\oneStore\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\oneStore\oneStore\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\oneStore\oneStore\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\oneStore\oneStore\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\oneStore\oneStore\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\oneStore\oneStore\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\oneStore\oneStore\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\oneStore\oneStore\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\oneStore\oneStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\oneStore\oneStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\oneStore\oneStore\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\oneStore\oneStore\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\oneStore\oneStore\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\oneStore\oneStore\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\oneStore\oneStore\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\oneStore\oneStore\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\oneStore\oneStore\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\oneStore\oneStore\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\oneStore\oneStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\oneStore\oneStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\oneStore\oneStore\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\oneStore\oneStore\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\oneStore\oneStore\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\oneStore\oneStore\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\oneStore\oneStore\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\oneStore\oneStore\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\oneStore\oneStore\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\oneStore\oneStore\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\oneStore\oneStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\oneStore\oneStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\oneStore\oneStore\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\oneStore\oneStore\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\oneStore\oneStore\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\oneStore\oneStore\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\oneStore\oneStore\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\oneStore\oneStore\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\oneStore\oneStore\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\oneStore\oneStore\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\oneStore\oneStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\oneStore\oneStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\oneStore\oneStore\bin\Debug\Interop.WMPLib.dll
+E:\oneStore\oneStore\bin\Debug\AxInterop.WMPLib.dll
+E:\oneStore\oneStore\obj\Debug\oneStore.csprojAssemblyReference.cache
+E:\oneStore\oneStore\obj\Debug\Interop.WMPLib.dll
+E:\oneStore\oneStore\obj\Debug\AxInterop.WMPLib.dll
+E:\oneStore\oneStore\obj\Debug\oneStore.csproj.ResolveComReference.cache
+E:\oneStore\oneStore\obj\Debug\oneStore.AdminHome.resources
+E:\oneStore\oneStore\obj\Debug\oneStore.adminProfile_settings.resources
+E:\oneStore\oneStore\obj\Debug\oneStore.Login.resources
+E:\oneStore\oneStore\obj\Debug\oneStore.manage_employee.resources
+E:\oneStore\oneStore\obj\Debug\oneStore.manage_sell_items.resources
+E:\oneStore\oneStore\obj\Debug\oneStore.Reg_loyalty.resources
+E:\oneStore\oneStore\obj\Debug\oneStore.Reports.resources
+E:\oneStore\oneStore\obj\Debug\oneStore.Reportseller.resources
+E:\oneStore\oneStore\obj\Debug\oneStore.SellerHome.resources
+E:\oneStore\oneStore\obj\Debug\oneStore.SellerProfile_settings.resources
+E:\oneStore\oneStore\obj\Debug\oneStore.sellItems.resources
+E:\oneStore\oneStore\obj\Debug\oneStore.Splash.resources
+E:\oneStore\oneStore\obj\Debug\oneStore.Properties.Resources.resources
+E:\oneStore\oneStore\obj\Debug\oneStore.StoreLigth_appColor.resources
+E:\oneStore\oneStore\obj\Debug\oneStore.store_social_media.resources
+E:\oneStore\oneStore\obj\Debug\oneStore.viewItems.resources
+E:\oneStore\oneStore\obj\Debug\oneStore.csproj.GenerateResource.cache
+E:\oneStore\oneStore\obj\Debug\oneStore.csproj.CoreCompileInputs.cache
+E:\oneStore\oneStore\obj\Debug\oneStore.csproj.CopyComplete
+E:\oneStore\oneStore\obj\Debug\oneStore.exe
+E:\oneStore\oneStore\obj\Debug\oneStore.pdb
+E:\oneStore\oneStore\obj\Debug\RdlCompile.cache
+E:\oneStore\oneStore\obj\Debug\RdlCompile.compiled
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\oneStore.exe.config
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\oneStore.exe
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\oneStore.pdb
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\AForge.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\AForge.Video.DirectShow.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\AForge.Video.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\ArduinoUploader.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\IntelHexFormatReader.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\Microsoft.Win32.Registry.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\RJCP.SerialPortStream.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\zxing.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\zxing.presentation.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\EnvDTE.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\stdole.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\Microsoft.MSXML.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\AForge.xml
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\AForge.Video.xml
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\AForge.Video.DirectShow.xml
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\RJCP.SerialPortStream.pdb
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\RJCP.SerialPortStream.xml
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\zxing.xml
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\zxing.presentation.xml
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\Interop.WMPLib.dll
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\AxInterop.WMPLib.dll
+E:\oneStore (uploard assingment 010)\oneStore\obj\Debug\oneStore.csprojAssemblyReference.cache
+E:\oneStore (uploard assingment 010)\oneStore\obj\Debug\Interop.WMPLib.dll
+E:\oneStore (uploard assingment 010)\oneStore\obj\Debug\AxInterop.WMPLib.dll
+E:\oneStore (uploard assingment 010)\oneStore\obj\Debug\oneStore.csproj.ResolveComReference.cache
+E:\oneStore (uploard assingment 010)\oneStore\obj\Debug\oneStore.AdminHome.resources
+E:\oneStore (uploard assingment 010)\oneStore\obj\Debug\oneStore.adminProfile_settings.resources
+E:\oneStore (uploard assingment 010)\oneStore\obj\Debug\oneStore.Login.resources
+E:\oneStore (uploard assingment 010)\oneStore\obj\Debug\oneStore.manage_employee.resources
+E:\oneStore (uploard assingment 010)\oneStore\obj\Debug\oneStore.manage_sell_items.resources
+E:\oneStore (uploard assingment 010)\oneStore\obj\Debug\oneStore.Reg_loyalty.resources
+E:\oneStore (uploard assingment 010)\oneStore\obj\Debug\oneStore.Reports.resources
+E:\oneStore (uploard assingment 010)\oneStore\obj\Debug\oneStore.Reportseller.resources
+E:\oneStore (uploard assingment 010)\oneStore\obj\Debug\oneStore.SellerHome.resources
+E:\oneStore (uploard assingment 010)\oneStore\obj\Debug\oneStore.SellerProfile_settings.resources
+E:\oneStore (uploard assingment 010)\oneStore\obj\Debug\oneStore.sellItems.resources
+E:\oneStore (uploard assingment 010)\oneStore\obj\Debug\oneStore.Splash.resources
+E:\oneStore (uploard assingment 010)\oneStore\obj\Debug\oneStore.Properties.Resources.resources
+E:\oneStore (uploard assingment 010)\oneStore\obj\Debug\oneStore.StoreLigth_appColor.resources
+E:\oneStore (uploard assingment 010)\oneStore\obj\Debug\oneStore.store_social_media.resources
+E:\oneStore (uploard assingment 010)\oneStore\obj\Debug\oneStore.viewItems.resources
+E:\oneStore (uploard assingment 010)\oneStore\obj\Debug\oneStore.csproj.GenerateResource.cache
+E:\oneStore (uploard assingment 010)\oneStore\obj\Debug\RdlCompile.cache
+E:\oneStore (uploard assingment 010)\oneStore\obj\Debug\RdlCompile.compiled
+E:\oneStore (uploard assingment 010)\oneStore\obj\Debug\oneStore.csproj.CoreCompileInputs.cache
+E:\oneStore (uploard assingment 010)\oneStore\obj\Debug\oneStore.csproj.CopyComplete
+E:\oneStore (uploard assingment 010)\oneStore\obj\Debug\oneStore.exe
+E:\oneStore (uploard assingment 010)\oneStore\obj\Debug\oneStore.pdb
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\oneStore.exe.manifest
+E:\oneStore (uploard assingment 010)\oneStore\bin\Debug\oneStore.application
+E:\oneStore (uploard assingment 010)\oneStore\obj\Debug\oneStore.exe.manifest
+E:\oneStore (uploard assingment 010)\oneStore\obj\Debug\oneStore.application
